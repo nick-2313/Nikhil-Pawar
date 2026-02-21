@@ -1,88 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Explore the Digital me. on Nikhil Pawar</title>
+    <title>Nikhil Pawar | Data Analytics Portfolio</title>
     <link>https://nick-2313.github.io/Nikhil-Pawar/</link>
-    <description>Recent content in Explore the Digital me. on Nikhil Pawar</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Professional data analytics portfolio showcasing structured analytical projects, dashboard development, and machine learning applications.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://nick-2313.github.io/Nikhil-Pawar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nick-2313.github.io/Nikhil-Pawar/index.xml" rel="self" type="application/rss+xml" />
+
     <item>
       <title>About</title>
       <link>https://nick-2313.github.io/Nikhil-Pawar/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://nick-2313.github.io/Nikhil-Pawar/about/</guid>
-      <description>Hello, my name is Nikhil, and I graduated from Pace University in New York with a Bachelor&amp;rsquo;s and a Master&amp;rsquo;s in Information Systems.
-Since young age, my curiosity with precision and accuracy kept me captivated on Formula 1. This is how I developed enthusiasm for data.
-leveraging the trinity of Precision, data, and timing F1 teams win races and championships. Using data to make decisions, encouraged me to study data.</description>
+      <description>
+Data analytics professional with dual degrees in Information Systems from Pace University, New York. Specializing in SQL, Python, dashboard development, and KPI-driven performance analysis to support business decision-making.
+      </description>
     </item>
-    
+
     <item>
-      <title>ChatBot</title>
+      <title>Chatbot Development (LSTM)</title>
       <link>https://nick-2313.github.io/Nikhil-Pawar/post/project-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://nick-2313.github.io/Nikhil-Pawar/post/project-6/</guid>
-      <description>Use deep learning to create a chatbot using Python. The information, which includes categories (intents), patterns, and responses, will be used to train the chatbot. In order to determine which category the user&amp;rsquo;s message falls under, I employed a specialized recurrent neural network (LSTM), which will select a random response from a list of options. Link to Github Repository</description>
+      <description>
+Developed a deep learning-based chatbot using Python and LSTM neural networks. Implemented structured intent classification and response modeling to simulate real-world conversational AI systems.
+      </description>
     </item>
-    
+
     <item>
-      <title>Contact</title>
-      <link>https://nick-2313.github.io/Nikhil-Pawar/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nick-2313.github.io/Nikhil-Pawar/contact/</guid>
-      <description>LinkedIn
-Medium
-GitHub</description>
-    </item>
-    
-    <item>
-      <title>COVID-19 Analysis</title>
+      <title>COVID-19 Global Analysis</title>
       <link>https://nick-2313.github.io/Nikhil-Pawar/post/project-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://nick-2313.github.io/Nikhil-Pawar/post/project-1/</guid>
-      <description>Created Tableau dashboard that showcases COVID-19 deaths , vaccinations and future projections around the globe. Analysed over 600K+ rows using SAS , SMSS and filtered train and test datasets. Engineered features from the datasets using SQL to quantify variables into meaningful values. Optimized SQL queries , CTEs and Views to obtain total deaths, vaccinations across globe and affected countries. Run forecast and timeseries on dataset. Link to Github Repository</description>
+      <description>
+Built an interactive Tableau dashboard analyzing global COVID-19 deaths, vaccinations, and forecast projections. Processed 600K+ records using SQL and statistical tools to derive actionable insights.
+      </description>
     </item>
-    
+
     <item>
-      <title>IMDb Website Automation</title>
+      <title>IMDb Data Automation</title>
       <link>https://nick-2313.github.io/Nikhil-Pawar/post/project-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://nick-2313.github.io/Nikhil-Pawar/post/project-3/</guid>
-      <description>Automated IMDb website to collect data for movies. I have used Selenium driver to automate specific selections on website. Collected movie titles, revies, ratings, runtime and converted into CSV file for further analysis.
-Link to Github Repository</description>
+      <description>
+Automated IMDb data extraction using Selenium WebDriver. Collected structured movie metadata including titles, ratings, reviews, and runtime for downstream analytical processing.
+      </description>
     </item>
-    
+
     <item>
-      <title>Recommender system using Python</title>
+      <title>Recommendation System</title>
       <link>https://nick-2313.github.io/Nikhil-Pawar/post/project-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://nick-2313.github.io/Nikhil-Pawar/post/project-4/</guid>
-      <description>Many applications exist where websites gather user data and use that data to forecast the preferences of their users. They can then recommend the content they enjoy. Recommender systems are a means to propose or find ideas and products that are related to a user&amp;rsquo;s particular way of thinking. Link to Github Repository</description>
+      <description>
+Implemented a recommendation engine using Python to model user behavior and predict relevant content through collaborative filtering techniques.
+      </description>
     </item>
-    
+
     <item>
       <title>Revenue Analysis</title>
       <link>https://nick-2313.github.io/Nikhil-Pawar/post/project-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://nick-2313.github.io/Nikhil-Pawar/post/project-5/</guid>
-      <description>revenue refers to income, sales or turnover, monetary units or just plain cash. This gives us an understanding of what revenue analysis entails. It is a purposeful, thorough, and well-researched report that includes income information for all business activities. This can include sales (of goods and services), expenses, earnings, and other elements. Business analysis of revenue is crucial. You can use it to make sure your plans and strategies stay on track with your objective.</description>
+      <description>
+Conducted structured revenue analysis to evaluate income trends, profitability drivers, and performance metrics supporting data-driven business strategy.
+      </description>
     </item>
-    
+
     <item>
-      <title>Sentimental Analysis</title>
+      <title>Sentiment Analysis</title>
       <link>https://nick-2313.github.io/Nikhil-Pawar/post/project-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://nick-2313.github.io/Nikhil-Pawar/post/project-2/</guid>
-      <description>Studied sentiments of users from tweets. In business use case, organizations utilize it to create their plans, comprehend how customers feel about their products or brands, how people react to their advertising campaigns or new product introductions, and determine why some products aren&amp;rsquo;t purchased by consumers. Link to Github Repository</description>
+      <description>
+Performed sentiment analysis on Twitter datasets using natural language processing techniques to evaluate brand perception and customer feedback trends.
+      </description>
     </item>
-    
+
   </channel>
 </rss>
